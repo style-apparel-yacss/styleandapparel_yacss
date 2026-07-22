@@ -18,252 +18,56 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style type="text/css">
-.container{
-max-width:1300px
-}
-.post-content *{
-
-font-size: 1.25rem;
-}
-.t8b7f18fb93739a0201083b5772f46619:hover{
-box-shadow: 0 20px 40px -5px rgba(9,30,66,.3);
-border-radius: 5px;
-}
-.y3528c58df5d7f74ecc890ac9f31ced29 i{
-border-radius: 50%;
-width: 37.4px;
-line-height: 35px;
-text-align: center;
-height: 37px;
-}
-.nav-link{
-color: #5b5b5b;
-
-}
-h1,h2,h3,h4,h5,h6{
-font-family:Montserrat, sans-serif
-}
-.cfa5804c6f982153fc637e93c6160cf4f{
-transition: all 0.3s; 
-}
-ul li a{
-color:#fd834c
-}
-.a2b79b6f96585beb57e3c5aabaa169fdf{
-background:#ffffff;
-}
-.w9844870389f5e0827089e4057f8f6e6f{
-color: #acacac;
-font-size: 19.9px;
-margin-bottom: 21.3px;
-}
-.d27b036195ec2b782c76981c96c6ba0d3 *{
-color:#ffffff;
-}
-.t327af44135d21f1fa7220680a4cb2f0a{
-background:#FEF6EA;border-bottom:1px solid #bcbc86
-}
-.uf5dbd52d436167e9d719d3bd5452a522{
-color: #464646;
-}
-.f9c4d4ca9aaa635edcfe152189f7ad5e5{
-font-weight:900;
-}
-.x9bbc53b168fc6b9d7ce4b7328eef9281{
-color: #fff;
-background-color: #fc834e;
-border-color: #ff8954;
-display: inline-block;
-font-weight: 800;
-line-height: 1.5;
-text-align: center;
-vertical-align: middle;
-cursor: pointer;
-padding: 1rem 1.75rem;
-font-size: 0.875rem;
-border-radius: 0;
-transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
-}
-h1{
-font-weight:900
-}
-html{
-scroll-behavior: smooth;
-}
-.t8b7f18fb93739a0201083b5772f46619 > a:focus, .t8b7f18fb93739a0201083b5772f46619 > a:hover{
-text-decoration: none;
-color: #0f94b0;
-}
-.t2d1e46f4385e7a6ddfff43e86ff6c6ec{
-font-size:16px!important;
-color: #626262;
-}
-footer{
-background:#131313;
-color:#ffffff;
-}
-.navbar{
-padding-top:42px;padding-bottom:42px;
-}
-.navbar a{
-font-size: 15.8px!important;
-font-weight: normal;text-transform:uppercase
-}
-.u3d181e141d1705f8236e6afea22b7355 p,.u3d181e141d1705f8236e6afea22b7355 a,.u3d181e141d1705f8236e6afea22b7355 span,.u3d181e141d1705f8236e6afea22b7355 label{
-font-size:16px!important;
-}
-.f35efbcf1e81bd09df2b0fa3273cea81e{
-font-size:61px!important;font-weight:600
-}
-.ycd78c788d13042e8688fe5f3e23b2664{
-font-size: 2rem !important;
-}
-.te8d72518a715eba3127a483fea3f3a33:hover,.y903065f1d8fbd945e0a230671ea9c035:hover{
-background-size: 100% 100% !important;
-background: #ffffff!important;
-background-repeat: no-repeat !important;
-background-position: 0 90% !important;
-transition: background-size 0.2s ease-in !important;
-}
-.x6d5388b35aca6976082733a6a971f6a0{
-    background-color: transparent;
-font-size: 23.5px;
-height: 47.8px;
-min-width: 50px;
-padding: 0.7rem;
-padding-top: 12.7px;
-color: #ffffff !important;
-border: 1px solid #ffffff;
-border-radius: 25px;
-}
-.justify-content-evenly{
-justify-content: space-evenly;
-}
-.t8b7f18fb93739a0201083b5772f46619 > a > .w21b08c238143caedf64d93348596d882{
-font-weight: 400;
-margin-bottom: 0.625rem;
-line-height:1.7;
-font-size:15.1px;
-}
-.bg-new{
-background: #fd834c;
-padding: 17px 40px;
-letter-spacing: 1px;
-border-radius: 100px;
-font-weight: 900;
-font-size: 16px;
-}
-iframe{
-border: none!important;
-}
-.navbar-brand img{
-position:absolute;z-index:1000;top:0px;padding:20px 30px;background:white
-}
-.nav-item{
-padding-left:8.5px;
-padding-right:7.6px;
-padding-top:4.8px;
-padding-bottom:5.4px;
-}
-.a2b79b6f96585beb57e3c5aabaa169fdf a{
-font-size:16px;
-}
-.y0767f6c928fd2779a47a70f84dc41eb3{
-font-size:15.3px!important;
-font-style: italic;
-margin-top: 0;
-font-style: normal;
-color: #5b5b5b;
-}
-.btn-md{
-padding: 15.5px 30.2px;
-border-radius: 0;
-}
-.t8b7f18fb93739a0201083b5772f46619{
-padding: 20px;
-background: #f5f5f7;
-margin-bottom: 30px;
-position: relative;
-border-radius: 2px;  
-
-margin-bottom: 30px;
-transition: all 400ms;
-}
-.y0767f6c928fd2779a47a70f84dc41eb3 a{
-color: white;
-}
-footer *{
-font-size:16px !important;
-}
-.vcdda40c42454c969fec68caa5e4ba4b8{
-background:#a55c5c!important ;
-}
-a:hover{
-color:#525dff;background:#ffffff!important
-}
-.y903065f1d8fbd945e0a230671ea9c035{
-font-weight: inherit;
-background-image: linear-gradient(120deg, #ffd567 0%, #ffcd5f 100%);
-background-repeat: no-repeat;
-background-size: 100% 30%;
-background-position: 0 90%;
-transition: background-size 0.2s ease-in;
-}
-.a2b79b6f96585beb57e3c5aabaa169fdf p,.a2b79b6f96585beb57e3c5aabaa169fdf span,.a2b79b6f96585beb57e3c5aabaa169fdf label{
-font-size:16px!important;
-}
-.t8b7f18fb93739a0201083b5772f46619 > a{
-color:#000000;
-}
-.a2b79b6f96585beb57e3c5aabaa169fdf *{
-color:#404040!important;
-}
-.zaefd4488e2f74b261695c8fce5d2a029{
-font-size:36px;font-weight:800
-}
-.t8b7f18fb93739a0201083b5772f46619 > .y0767f6c928fd2779a47a70f84dc41eb3 > a{
-text-decoration: none;
-}
-.y44fbda595cd014acfe2fedff34a5d701{
-text-decoration: underline!important;color:#fd7e14!important
-}
-ul{
-text-decoration:none;display:inline-block;text-align:left
-}
-*{
-font-family: 'Roboto', sans-serif;
-}
-.a5cebc0449c8ad3a30074f51ae92c3337{
-color:#ffffff!important;
-}
-.y3528c58df5d7f74ecc890ac9f31ced29 i:hover{
+.a76cdb69a01dfc36770107f7e1a204202 i:hover{
 background: white;
 color: #525dff;!important;
 line-height: 35px;
 border-radius: 50%;
 width: 36.7px;
 text-align: center;
-height: 36.6px;
+height: 37.2px;
 }
-.u3d181e141d1705f8236e6afea22b7355{
-background:rgba(188,188,134,0.25);
-color:#4b4b4b;
+html{
+scroll-behavior: smooth;
 }
-.ef888d130c49d1f15036689558f786af6 *{
-color: white;
+footer a{
+color:#fd834c;
+text-decoration: underline;
 }
-h3,h2,h4,h5{
-font-weight:900;font-size:36px
+.u2c804990d2b0d4045f3f90f84091a448{
+background:#a55c5c!important ;
 }
-.f2c726d2f4972ca36ae5b0b1d01ed9102{
-font-size: 14.4px;
+.wc731e36a412ee822f1a9f6e30ea22fc9 a{
+font-size:16px;
 }
-.t8b7f18fb93739a0201083b5772f46619 > a > .ya47b3170c5eb20626c82652ea3302cc3{
-font-size: 21.6px;
-margin-top: 1.875rem;
-margin-bottom: 0.625rem;
+.x3adc7c30602db17d035a2c5f432a803e > a{
+color:#000000;
 }
-.f02ce0215e0edb369b1acc6007452def8{
+*{
+font-family: 'Roboto', sans-serif;
+}
+.justify-content-evenly{
+justify-content: space-evenly;
+}
+a{
+text-decoration: none;
+}
+.x3adc7c30602db17d035a2c5f432a803e:hover{
+box-shadow: 0 20px 40px -5px rgba(9,30,66,.3);
+border-radius: 5px;
+}
+.y3948c75653a55d61c50e1a9d617a5bde:hover,.fdbb33e927f8bc693c742c636eb793b86:hover{
+background-size: 100% 100% !important;
+background: #ffffff!important;
+background-repeat: no-repeat !important;
+background-position: 0 90% !important;
+transition: background-size 0.2s ease-in !important;
+}
+.navbar a{
+font-size: 15.5px!important;
+font-weight: normal;text-transform:uppercase
+}
+.ye8996fc3455f1d9814804ea1e0da36ad{
 width: 100%;
 max-height: 720px;
 object-fit: cover;
@@ -277,19 +81,25 @@ top: 0;
 left: 0;
 right: 0;
 }
-.c421ae1c6ef69a97e5a0d90464a54d1e1{
-font-size: 20.1px;
-font-weight: bold;
+.x3adc7c30602db17d035a2c5f432a803e > a > .v91d509951ee204cf23796c650fc010fa{
+font-size: 22px;
+margin-top: 1.875rem;
+margin-bottom: 0.625rem;
 }
-footer a{
-color:#fd834c;
-text-decoration: underline;
+.x3adc7c30602db17d035a2c5f432a803e > a > .baa81f7a67688ec2a86aadce103c703ba{
+font-weight: 400;
+margin-bottom: 0.625rem;
+line-height:1.7;
+font-size:15.5px;
 }
-body{
-color: #4c4c4c;
+.container{
+max-width:1300px
 }
-a{
-text-decoration: none;
+.x0ad9cbe02f8acdd0573ad8c33442ae0e *{
+color:#ffffff;
+}
+.wc731e36a412ee822f1a9f6e30ea22fc9{
+background:#ffffff;
 }
 .navbar-toggler span{
 display: flex;
@@ -297,6 +107,196 @@ align-items: center;
 justify-content: center;
 border: 1px solid lightgrey;
 border-radius: 3px;
+}
+.x3adc7c30602db17d035a2c5f432a803e{
+padding: 20px;
+background: #f5f5f7;
+margin-bottom: 30px;
+position: relative;
+border-radius: 2px;  
+
+margin-bottom: 30px;
+transition: all 400ms;
+}
+.nav-link{
+color: #5b5b5b;
+
+}
+.wc731e36a412ee822f1a9f6e30ea22fc9 p,.wc731e36a412ee822f1a9f6e30ea22fc9 span,.wc731e36a412ee822f1a9f6e30ea22fc9 label{
+font-size:16px!important;
+}
+.x634550df5fd529d8427a1605969952c0{
+font-weight:900;
+}
+.a76cdb69a01dfc36770107f7e1a204202 i{
+border-radius: 50%;
+width: 36.8px;
+line-height: 35px;
+text-align: center;
+height: 37.2px;
+}
+ul li a{
+color:#fd834c
+}
+.b4ab37c55c72b8124a5f7bf0d7de6a4ab{
+    background-color: transparent;
+font-size: 23.5px;
+height: 47.8px;
+min-width: 50px;
+padding: 0.7rem;
+padding-top: 12.7px;
+color: #ffffff !important;
+border: 1px solid #ffffff;
+border-radius: 25px;
+}
+.wc731e36a412ee822f1a9f6e30ea22fc9 *{
+color:#4c4c4c!important;
+}
+h3,h2,h4,h5{
+font-weight:900;font-size:36px
+}
+.btn-md{
+padding: 15.5px 30.4px;
+border-radius: 0;
+}
+.xecf6d65be8b6e2420c794d8985bfd41e{
+font-size: 19.7px;
+font-weight: bold;
+}
+.wd01287390034cb9a1ab99346351da3dc{
+font-size:36px;font-weight:800
+}
+.x3adc7c30602db17d035a2c5f432a803e > .vc963be38974b30378459b515e0763577 > a{
+text-decoration: none;
+}
+h1,h2,h3,h4,h5,h6{
+font-family:Montserrat, sans-serif
+}
+.vc963be38974b30378459b515e0763577 a{
+color: white;
+}
+.y97decc1f3eb899793f59291588b94694{
+color: #4e4e4e;
+}
+a:hover{
+color:#525dff;background:#ffffff!important
+}
+.navbar{
+padding-top:42px;padding-bottom:42px;
+}
+.z18f52f27eb6cf106e87e0c4879208f81{
+color: #fff;
+background-color: #ff8f5a;
+border-color: #fe8550;
+display: inline-block;
+font-weight: 800;
+line-height: 1.5;
+text-align: center;
+vertical-align: middle;
+cursor: pointer;
+padding: 1rem 1.75rem;
+font-size: 0.875rem;
+border-radius: 0;
+transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+.a2ea55e81f05d30bd221d773bb645bf7f{
+transition: all 0.3s; 
+}
+.navbar-brand img{
+position:absolute;z-index:1000;top:0px;padding:20px 30px;background:white
+}
+.w060cd7bc09e78acc6372efb95c0d9990{
+font-size:61px!important;font-weight:600
+}
+.bg-new{
+background: #fd834c;
+padding: 17px 40px;
+letter-spacing: 1px;
+border-radius: 100px;
+font-weight: 900;
+font-size: 16px;
+}
+.y64f730b6722dff90bcf1b4e1bc3aa1ad{
+text-decoration: underline!important;color:#ff8b21!important
+}
+body{
+color: #4a4a4a;
+}
+.a2c6811aedfa10547eda8a428467abe27 *{
+color: white;
+}
+.d47532234cf5ba07f556619986b908436{
+background:#FEF6EA;border-bottom:1px solid #bcbc86
+}
+.vc963be38974b30378459b515e0763577{
+font-size:14.7px!important;
+font-style: italic;
+margin-top: 0;
+font-style: normal;
+color: #646464;
+}
+.t388781095389b9bc9fbda9a7d9edc0a5{
+font-size:16px!important;
+color: #6e6e6e;
+}
+.f270920b8fe8cc79cce64c08e9cd63e8f{
+font-size: 13.9px;
+}
+.y1b16b39fa481558ea6209480fe451315 p,.y1b16b39fa481558ea6209480fe451315 a,.y1b16b39fa481558ea6209480fe451315 span,.y1b16b39fa481558ea6209480fe451315 label{
+font-size:16px!important;
+}
+footer *{
+font-size:16px !important;
+}
+.fdbb33e927f8bc693c742c636eb793b86{
+font-weight: inherit;
+background-image: linear-gradient(120deg, #ffd264 0%, #ffd163 100%);
+background-repeat: no-repeat;
+background-size: 100% 30%;
+background-position: 0 90%;
+transition: background-size 0.2s ease-in;
+}
+.y1b16b39fa481558ea6209480fe451315{
+background:rgba(188,188,134,0.25);
+color:#424242;
+}
+.ef77900dd26e6bdc1f999d5c385841e4f{
+font-size: 2rem !important;
+}
+.post-content *{
+
+font-size: 1.25rem;
+}
+h1{
+font-weight:900
+}
+footer{
+background:#131313;
+color:#ffffff;
+}
+.e486c38610e46a2652aa458726641f90c{
+color: #acacac;
+font-size: 20px;
+margin-bottom: 20.7px;
+}
+.ydb29225ce31cecda9e25950675f9fbeb{
+color:#ffffff!important;
+}
+.nav-item{
+padding-left:7.8px;
+padding-right:8.4px;
+padding-top:4.5px;
+padding-bottom:5.4px;
+}
+.x3adc7c30602db17d035a2c5f432a803e > a:focus, .x3adc7c30602db17d035a2c5f432a803e > a:hover{
+text-decoration: none;
+color: #1095b1;
+}
+ul{
+text-decoration:none;display:inline-block;text-align:left
+}
+iframe{
+border: none!important;
 }
     .dropdown-submenu {
     position: relative;
@@ -416,12 +416,12 @@ border-radius: 3px;
 </style>
 </head>
 <body>
-<nav class="navbar-expand-lg navbar container">
+<nav class="navbar-expand-lg container navbar">
 <a class="navbar-brand" href="index.html"  ><img alt="img/logo1.png" src="img/logo1.png"  width="200px" height="190px" ></a>
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-<span class="navbar-toggler-icon  fa fa-bars"></span></button><div class="collapse navbar-collapse" id="navbarSupportedContent">
-<ul class="align-items-center ml-auto navbar-nav d-flex"><li class="nav-item"><a class="nav-link te8d72518a715eba3127a483fea3f3a33" href="news.html"  >Blogs</a></li>
-<li class="nav-item"><a class="nav-link te8d72518a715eba3127a483fea3f3a33"  href="about-us.html">About Us</a>
+<span class="navbar-toggler-icon  fa fa-bars"></span></button><div class="navbar-collapse collapse" id="navbarSupportedContent">
+<ul class="align-items-center d-flex navbar-nav ml-auto"><li class="nav-item"><a class="nav-link y3948c75653a55d61c50e1a9d617a5bde" href="news.html"  >Blogs</a></li>
+<li class="nav-item"><a class="nav-link y3948c75653a55d61c50e1a9d617a5bde"  href="about-us.html">About Us</a>
 </li></ul>
 </div>
 </nav>
@@ -475,13 +475,13 @@ border-radius: 3px;
 <p>If you have any questions, concerns, or requests regarding this Privacy Policy or the way your information is handled on this website, please reach out to us through the contact page on this site or by email. We are happy to clarify any part of this policy and will do our best to respond to all legitimate inquiries promptly.</p>
 </section>
 <footer>
-<div class="py-4 container pt-5" >
+<div class="container py-4 pt-5" >
 <div class="row"><div class="col-lg-3">
 <p>Quick Links</p>
-<p><a class="te8d72518a715eba3127a483fea3f3a33" href="home.html"  target="_blank">Home</a></p><p><a class="te8d72518a715eba3127a483fea3f3a33" href="blog.html"  target="_blank">Blogs</a></p><p><a class="te8d72518a715eba3127a483fea3f3a33" href="about.html"  target="_blank">About Us </a></p><p><a class="te8d72518a715eba3127a483fea3f3a33" href="pr.html"  target="_blank">Privacy Policy</a></p></div><div class="col-lg-3"><p>Featured Guides</p> 
-<p><a class="te8d72518a715eba3127a483fea3f3a33" href="sitemap.html" >Sitemap</a></p>
-<p><a class="te8d72518a715eba3127a483fea3f3a33" href="privacy-policy.html" >Privacy Policy</a></p>
-<p><a class="te8d72518a715eba3127a483fea3f3a33" href="about-us.html" >About Us</a></p>
+<p><a class="y3948c75653a55d61c50e1a9d617a5bde" href="https://style-apparel-yacss.github.io/styleandapparel_yacss/news.html"  target="_blank">Home</a></p><p><a class="y3948c75653a55d61c50e1a9d617a5bde" href="https://style-apparel-yacss.github.io/styleandapparel_yacss/news.html"  target="_blank">Blogs</a></p><p><a class="y3948c75653a55d61c50e1a9d617a5bde" href="https://style-apparel-yacss.github.io/styleandapparel_yacss/about-us.html"  target="_blank">About Us </a></p><p><a class="y3948c75653a55d61c50e1a9d617a5bde" href="https://style-apparel-yacss.github.io/styleandapparel_yacss/privacy-policy.html"  target="_blank">Privacy Policy</a></p></div><div class="col-lg-3"><p>Featured Guides</p> 
+<p><a class="y3948c75653a55d61c50e1a9d617a5bde" href="sitemap.html" >Sitemap</a></p>
+<p><a class="y3948c75653a55d61c50e1a9d617a5bde" href="privacy-policy.html" >Privacy Policy</a></p>
+<p><a class="y3948c75653a55d61c50e1a9d617a5bde" href="about-us.html" >About Us</a></p>
 <p><div class="footer-brand-block">
 <h3>&nbsp;</h3>
 </div></p>
@@ -489,11 +489,11 @@ border-radius: 3px;
 </div><div class="col-lg-3">
 <div>
 <p>Follow us</p>
-<a href="https://www.facebook.com/TheBestSuspenders" class="facebook y3528c58df5d7f74ecc890ac9f31ced29" rel="nofollow"><i class="fa fa-facebook"></i></a>
-<a href="https://www.linkedin.com/in/holdup-suspenders-85516227b" class="y3528c58df5d7f74ecc890ac9f31ced29 pinterest" rel="nofollow"><i class="fa fa-linkedin"></i></a>
-<a href="https://www.instagram.com/intelligentthreads/" class="google y3528c58df5d7f74ecc890ac9f31ced29-plus" rel="nofollow"><i class="fa fa-instagram"></i></a>
-<a href="https://www.youtube.com/@intelligentthreadshttps://www.youtube.com/c/Tough-hook" class="youtube y3528c58df5d7f74ecc890ac9f31ced29" rel="nofollow"><i class="fa fa-youtube"></i></a>
-<a href="https://x.com/Intelligentthr1" class="twitter y3528c58df5d7f74ecc890ac9f31ced29" rel="nofollow"><i class="fa fa-twitter"></i></a>
+<a href="https://www.facebook.com/TheBestSuspenders" class="facebook a76cdb69a01dfc36770107f7e1a204202" rel="nofollow"><i class="fa fa-facebook"></i></a>
+<a href="https://www.linkedin.com/in/holdup-suspenders-85516227b" class="pinterest a76cdb69a01dfc36770107f7e1a204202" rel="nofollow"><i class="fa fa-linkedin"></i></a>
+<a href="https://www.instagram.com/intelligentthreads/" class="a76cdb69a01dfc36770107f7e1a204202 google-plus" rel="nofollow"><i class="fa fa-instagram"></i></a>
+<a href="https://www.youtube.com/@intelligentthreadshttps://www.youtube.com/c/Tough-hook" class="youtube a76cdb69a01dfc36770107f7e1a204202" rel="nofollow"><i class="fa fa-youtube"></i></a>
+<a href="https://x.com/Intelligentthr1" class="a76cdb69a01dfc36770107f7e1a204202 twitter" rel="nofollow"><i class="fa fa-twitter"></i></a>
 </div>
 </div></div>
 </div>
